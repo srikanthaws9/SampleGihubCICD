@@ -1,0 +1,6 @@
+Hello welcome to Python... We are learning files read write 
+This comes in another line.. 
+Hello welcome to Python... We are learning files read write 
+This comes in another line.. 
+Hello welcome to Python... We are learning files read write 
+This comes in another line.. 
