@@ -1,9 +1,11 @@
 name: Deploy code to dev env
 
 on:
-  workflow_dispatch:
+  push:
     branch: 
       - main
+      - dev
+      - feature/cicd-setup
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
