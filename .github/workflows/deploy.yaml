@@ -16,6 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: deploy the code
-        run: echo " Deployed the code"
+        run: echo " Deployed the code welcome to DevOps "
   
     
