@@ -17,6 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: deploy the code
-        run: echo " Deployed the code welcome to DevOps " asdf asdf asdf sasdf 
+        run: |
+          echo "Deploying code to the development environment..."
+          echo "Deployment successful!"
+
+
   
     
