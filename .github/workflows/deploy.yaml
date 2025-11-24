@@ -1,7 +1,7 @@
 name: Deploy code to dev env
 
 on:
-  push:
+  push:  
     branch: 
       - main
       - dev
@@ -16,6 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: deploy the code
-        run: echo " Deployed the code welcome to DevOps "
+        run: echo " Deployed the code welcome to DevOps " asdf asdf asdf sasdf 
   
     
