@@ -21,6 +21,8 @@ jobs:
           echo "Deploying code to the development environment..."
           echo "Deployment successful!"
           echo "send mail to dev team"
+          echo "this is new feature"
+
 
 
   
