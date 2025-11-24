@@ -6,6 +6,7 @@ on:
       - main
       - dev
       - feature/cicd-setup
+      - uat
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
